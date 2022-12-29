@@ -17,4 +17,4 @@ function checkAnangram(str1, str2) {
   return true;
 }
 
-console.log(checkAnangram("princ", "ecnirp"));
+console.log(checkAnangram("prinwy", "ecnirp"));
